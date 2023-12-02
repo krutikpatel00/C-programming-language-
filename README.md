@@ -2,10 +2,10 @@
 
 AUTHER : KRUTIK PATEL
 
-<h2> vs code  <h2>
+<h1> vs code  </h1>
 
 C leanguage run
 
-commoned
+<h2>commoned </h2><br>
 gcc filename <br>
 ./a.exe
