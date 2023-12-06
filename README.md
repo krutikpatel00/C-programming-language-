@@ -8,4 +8,3 @@ C leanguage run
 
 <h2>commoned </h2><br>
 gcc filename <br>
-./a.exe
